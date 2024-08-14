@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/maia-helper-front-admin-public/static/css/main.072ef4a3.css",
+    "main.js": "/maia-helper-front-admin-public/static/js/main.e9bc96ea.js",
+    "index.html": "/maia-helper-front-admin-public/index.html",
+    "static/media/LoadingIcon.svg": "/maia-helper-front-admin-public/static/media/LoadingIcon.1089c8c94bd1345e7cec53d8fcc2ebbd.svg",
+    "main.072ef4a3.css.map": "/maia-helper-front-admin-public/static/css/main.072ef4a3.css.map",
+    "main.e9bc96ea.js.map": "/maia-helper-front-admin-public/static/js/main.e9bc96ea.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.072ef4a3.css",
+    "static/js/main.e9bc96ea.js"
+  ]
+}
